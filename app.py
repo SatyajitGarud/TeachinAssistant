@@ -2,7 +2,7 @@ import gradio as gr
 from openai import OpenAI
 import os
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="Enter your OpenAI API  key")
 
 
 system_prompt={
