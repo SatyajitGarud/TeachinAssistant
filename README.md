@@ -1,7 +1,1 @@
-# Question Answer over a PDF document
-This is a repository for my [YouTube channel](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ), you can build a 
-
-#### YouTube video
-I have created a video explaining this repository, you can watch it [here](https://youtu.be/fNfcEvhwTMA).
-
-It have Gradio UI as well, [here](https://youtu.be/XRfHDoROopY) is a video explaining it.
+This project features an interactive AI-powered teaching assistant chatbot capable of understanding voice input of student queries in over 50 languages, using Whisper-1 model, which also removes background noise for clearer communication. This input is then processed by a LLM tailored to match specific Teaching assistant personalities, considering chat history and Topic knowledge stored in a vector database via Retrieval Augmented Generation (RAG). The result is a text response that ensures  engaging interactions with Students.
