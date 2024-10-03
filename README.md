@@ -13,3 +13,5 @@ https://drive.google.com/drive/folders/1kczVvTNndkWChBJgP_tVvpk9knMQYb52?dmr=1&e
 
 ![cover](https://github.com/user-attachments/assets/e9e1bec4-7e50-495f-bab2-e87daa382b65)
 
+## System Architecture
+![architecture](https://github.com/user-attachments/assets/6b8d0999-a9b2-4816-b997-c8ac3e4b7505)
